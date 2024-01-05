@@ -1,24 +1,25 @@
 # Tic-tac-toe
 
-## Project create with React + Vite
+## Project Create With React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ## Description
 
-Esta implementación del clásico juego Tic-Tac-Toe (también conocido como Gato) se ha desarrollado utilizando ReactJS. Ofrece una experiencia de juego completa con la funcionalidad básica del juego, permitiendo a los jugadores competir para marcar tres casillas consecutivas. Además, cuenta con una característica adicional que hace uso de la biblioteca Canvas Confetti, añadiendo un efecto de confeti al final del juego cuando un jugador gana. El progreso del juego se guarda localmente utilizando Local Storage para que los jugadores puedan retomar partidas anteriores. El diseño se ha creado con CSS3 y se han implementado conceptos avanzados de React, incluyendo el uso de componentes reutilizables.
+This implementation of the classic Tic-Tac-Toe game has been developed using ReactJS. It offers a complete gaming experience with basic game functionality, allowing players to compete to check three consecutive boxes. Additionally, it has an additional feature that makes use of the Canvas Confetti library, adding a confetti effect at the end of the game when a player wins. Game progress is saved locally using Local Storage so players can resume previous games. The design has been created with CSS3 and advanced React concepts have been implemented, including the use of reusable components.
 
 ## Characteristics
 
-* Implementación del clásico juego Tic-Tac-Toe con funcionalidades completas.
-* Efecto visual de confeti al ganar, gracias a Canvas Confetti.
-* Guardado del progreso del juego en Local Storage para continuar partidas anteriores.
-* Estilizado utilizando CSS3 con enfoque en la usabilidad.
-* Utilización de conceptos avanzados de React y componentes reutilizables.
+* Implementation of the classic Tic-Tac-Toe game with full functionality.
+* Confetti visual effect upon winning, thanks to Canvas Confetti.
+* Saving game progress to Local Storage to continue previous games.
+* Styled using CSS3 with a focus on usability.
+* Use of advanced React concepts and reusable components.
 
 ## Screenshots
 
-![cap-home-disney-plus-clone-app](public/images/dp-cap-01.png)
+![cap-tic-tac-toe](public/screenshots/tic-tac-toe-cap-01.png)
+![cap-tic-tac-toe](public/screenshots/tic-tac-toe-cap-02.png)
 
 ## Install
 
@@ -52,7 +53,7 @@ Developer: Chencho34
 
 ## Implemented technologies.
 
-* [confetti canvas](https://styled-components.com/)
+* [Confetti Canvas](https://styled-components.com/)
 * [React + vite](https://vitejs.dev/)
 * [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti)
 * Local Storage: Almacenamiento del progreso del juego.
